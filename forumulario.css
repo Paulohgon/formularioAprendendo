@@ -30,12 +30,7 @@ input,select,textarea,button{
     color: #59429d;
     border-radius: 5px;
 }
-.grupo:before, .grupo:after {
-    display: table;
-}
-.grupo:after {
-    clear: both;
-}
+
 .campo{
     margin-bottom: 1em;
 }
